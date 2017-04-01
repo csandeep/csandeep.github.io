@@ -14,6 +14,7 @@ Its super easy to set this up:
 
    * Enter developer mode, for [Samsung Chromebook follow this procedure.](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/samsung-arm-chromebook#TOC-Entering-Developer-Mode)
    * Download Crouton
-   * Ctrl-Alt-T to open terminal , type shell to open a bash shell and run
+   * Ctrl-Alt-T to open terminal , type shell to open a bash shell and run:
+
       `$ sudo sh -e ~/Downloads/crouton`
-   * after crouton finishes, to enter your new chroot $ /usr/local/bin/enter-chroot
+   * after crouton finishes, to enter your new chroot `$ /usr/local/bin/enter-chroot`

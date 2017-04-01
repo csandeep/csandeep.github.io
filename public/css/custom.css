@@ -1,11 +1,33 @@
-.sidebar-logo {
+.xsidebar-logo {
       padding: 1.5rem;
 }
   
-.sidebar-logo img {
+.xsidebar-logo img {
       border-radius: 50%;
       -moz-border-radius: 50%;
       -webkit-border-radius: 50%;
       width: 160px;
       margin: 0 auto;
+}
+
+.sidebar-logo {
+  position: relative;
+  width: 220px;
+}
+ 
+.sidebar-logo img {
+  border: 10px solid #fff;
+  border-bottom: 45px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #777;
+     -moz-box-shadow: 3px 3px 3px #777;
+          box-shadow: 3px 3px 3px #777;
+}
+ 
+.sidebar-logo p {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+  font: 400 18px/1 'Kaushan Script', cursive;
+  color: #888;
 }

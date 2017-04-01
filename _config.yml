@@ -19,6 +19,7 @@ paginate:         5
 
 # Custom vars
 version:          1.0.0
+gravatar_md5: eb2762c8b840daa8265c04e964deaf65
 
 github:
   repo:           https://github.com/csandeep/csandeep.github.io

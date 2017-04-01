@@ -22,3 +22,37 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/csandeep/csandeep.github.io
+
+prose:
+  rooturl: _posts
+  siteurl: "https://csandeep.github.io"
+  media: "img"
+  metadata: 
+    _posts: 
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Type of post"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Link"
+              value: "link"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Link"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Perl"
+              value: "perl"
+            - name: "Devops"
+              value: "devops"
+            - name: "Mac"
+              value: "mac"
+            - name: "Entertainment"
+              value: "entertainment"

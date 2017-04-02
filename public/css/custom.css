@@ -1,5 +1,6 @@
 .sidebar-logo {
       padding: 1.2rem;
+      padding-bottom: 0!important;
 }
 
 .sidebar-logo img {
@@ -11,5 +12,5 @@
 }
 
 .sidebar-item {
-      padding: 1.2rem;     
+      padding: 1.0rem;     
 }

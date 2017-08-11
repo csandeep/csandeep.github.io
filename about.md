@@ -7,7 +7,7 @@ title: About Sandeep Chayapathi
 * I'm married with one daughter
 * I live in Jersey City, NJ
 * I favor Perl, Objective-C & Javascript
-* I'm the V.P. of Engineering at [JOOR](https://jooraccess.com/)
+* I'm the V.P. of Engineering at [The Mighty](https://themighty.com/)
 
 ## Me elsewhere
 * [https://github.com/csandeep](https://github.com/csandeep) - All my code

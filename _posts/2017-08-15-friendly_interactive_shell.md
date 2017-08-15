@@ -9,6 +9,6 @@ Enter [Friendly Interactive SHell](http://fishshell.com)! In simple words - `fis
 
 I no longer need to muck around config files, `fish_config` is a shining example of how CLI applications should handle configuration. Here's a screenshot of fish_config
 
-![fish_config](/public/fish_config.png)
+[![fish_config](/public/fish_config.png){.callout}](/public/fish_config.png)
 
 Combine this with [fisherman](https://fisherman.github.io) you have a very responsive and a very user friendly shell.

@@ -9,5 +9,5 @@ title: About Sandeep Chayapathi
 
 ## Me elsewhere
 * [https://github.com/csandeep](https://github.com/csandeep) - All my code
-* [https://twitter.com/chayapathi](https://twitter.com/chayapathi) - My Tweets
+* ~~[https://twitter.com/chayapathi](https://twitter.com/chayapathi) - My Tweets~~
 * [https://www.flickr.com/photos/csandeep](https://www.flickr.com/photos/csandeep) - My Photos

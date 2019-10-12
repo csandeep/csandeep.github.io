@@ -1,0 +1,15 @@
+---
+layout: post
+title:  On Lisp
+---
+
+I have a fascination with Lisp / lisp like languages. This started way back when I joined the Emacs religion, part of the initiatiion is to configure your IDE via macros! Much later I tried creating (and failed to maintain) a emacs package that would interact with [Bugzilla](https://www.bugzilla.org/). 
+
+Another experiment was to use a [Sawfish Window Manager](http://sawfish.tuxfamily.org/) , which is highly configurable via a lisp like programming language **rep**. This was the early days of Linux desktop, with a plethora of window managers.
+
+As of today I have been programming with [Clojure](https://clojure.org/) for few months now. A lot has been written about pro's and con's of Clojure. However in this post I want to share with you why Lisp from a perl programmer's perspective (perl is the one language I revert to for any proof-of-concept project) - [Why Lisp macros are cool, a Perl perspective](http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html)
+
+I'll leave this quote from the link above, which is a sufficient reason for me to stick with lisp:
+
+```Source code generation is unreliable and inadvisable in every language
+except Lisp.```
